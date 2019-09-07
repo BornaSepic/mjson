@@ -1,2 +1,2 @@
 # **M**ock **JSON**
-JSON mocking service (no actual JSON mocking allowed)
+JSON mocking service (no actual mocking of JSON allowed, cause JSON is awesome :shipit:)
