@@ -6,7 +6,7 @@ import theme from "../../css/theme";
 import circuitBoard from "../../static/circuit-board.svg"
 
 export const HeaderBar = styled(AppBar)`
-  padding: 10px;
+  padding: ${theme.spacing(1)}px;
   background-color: ${theme.palette.secondary.dark};
   background-image: url(${circuitBoard});
 `;
